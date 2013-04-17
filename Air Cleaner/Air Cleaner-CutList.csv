@@ -1,0 +1,27 @@
+Components
+Part#,Quantity,Description,Length(L),Width(W),Thickness(T),Board Foot (per),Board Foot (total),Total Length (Feet),Material,
+C-001,1, block,7/8",3/8",5/16",0.0,0.0,0.07,Not assigned,
+
+Total Component Board Foot
+0.0,
+
+Component Materials
+Material,Board Foot,
+Not assigned,0.0,
+
+Sheet Goods
+Part#,Quantity,Description,Length(L),Width(W),Thickness(T),Square Foot (per),Square Foot (total),Total Length (Feet),Material,
+S-001,8, bar plywood,1' 4",1",1/2",0.11,0.88,10.64,Not assigned,
+S-002,1, bottom plywood,2' 11",1' 9",1/2",5.1,5.1,2.92,Not assigned,
+S-003,4, hold1 plywood,1' 4",1 1/2",1/2",0.17,0.68,5.32,Not assigned,
+S-004,4, sides plywood,1' 4",7 1/2",1/2",0.83,3.32,5.32,Not assigned,
+S-005,4, spacer plywood,1' 4",1",1/2",0.11,0.44,5.32,Not assigned,
+S-006,1, top plywood,3' 2",2',1/2",6.33,6.33,3.17,Not assigned,
+
+Total Sheet Square Foot
+16.75,
+
+Sheet Materials
+Material,Square Foot,
+Not assigned,16.75,
+
